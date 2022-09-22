@@ -334,6 +334,14 @@ transform: scale(1,2);
     "footer"
   }
 }
+.lead{
+  text-align: center;
+}
+.drop{
+  background-color: rgb(0, 0, 0);
+  opacity: 0.5;
+  z-index: 5;
+}
 
     
 
